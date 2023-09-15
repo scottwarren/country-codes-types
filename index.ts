@@ -503,3 +503,5 @@ export type ValidThreeLetterCountryCodes =
 
 export type LowercaseTwoLetterCountryCodes =
   Lowercase<ValidTwoLetterCountryCodes>
+export type LowercaseThreeLetterCountryCodes =
+  Lowercase<ValidThreeLetterCountryCodes>
