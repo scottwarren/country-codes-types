@@ -1,0 +1,24 @@
+{
+  "name": "country-codes-types",
+  "version": "1.0.0",
+  "description": "List of two and three letter country codes as per ISO 3166-1",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottwarren/country-codes-types.git"
+  },
+  "keywords": [
+    "country-codes",
+    "types",
+    "iso-3166"
+  ],
+  "author": "Scott Warren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottwarren/country-codes-types/issues"
+  },
+  "homepage": "https://github.com/scottwarren/country-codes-types#readme"
+}
