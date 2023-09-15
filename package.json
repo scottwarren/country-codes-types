@@ -1,8 +1,8 @@
 {
   "name": "country-codes-types",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "List of two and three letter country codes as per ISO 3166-1",
-  "main": "index.ts",
+  "main": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
